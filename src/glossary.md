@@ -30,9 +30,6 @@ Also, please keep the hard line breaks to ensure a nice formatting.
 - allocate:\
   Dynamic memory allocation on [the heap](memory-management/stack-vs-heap.md).
 - argument:\
-- Bare-metal Rust:\
-  Low-level Rust development, often deployed to a system without an operating
-  system. See [Bare-metal Rust](bare-metal.md).
 - block:\
   See [Blocks](control-flow/blocks.md) and _scope_.
 - borrow:\
@@ -43,13 +40,8 @@ Also, please keep the hard line breaks to ensure a nice formatting.
   `{` and `}`. Also called _curly brace_, they delimit _blocks_.
 - build:\
 - call:\
-- channel:\
-  Used to safely pass messages [between threads](concurrency/channels.md).
 - Comprehensive Rust 🦀:\
   The courses here are jointly called Comprehensive Rust 🦀.
-- concurrency:\
-- Concurrency in Rust:\
-  See [Concurrency in Rust](concurrency.md).
 - constant:\
 - control flow:\
 - crash:\
@@ -85,8 +77,6 @@ Also, please keep the hard line breaks to ensure a nice formatting.
 - Rust:\
 - Rust Fundamentals:\
   Days 1 to 3 of this course.
-- Rust in Android:\
-  See [Rust in Android](android.md).
 - safe:\
 - scope:\
 - standard library:\

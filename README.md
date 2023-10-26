@@ -6,12 +6,7 @@
 
 This repository has the source code for Comprehensive Rust 🦀, a multi-day Rust
 course developed by the Android team. The course covers all aspects of Rust,
-from basic syntax to generics and error handling. It also includes deep dives on
-[Android], [bare-metal], and [concurrency].
-
-[Android]: https://google.github.io/comprehensive-rust/android.html
-[bare-metal]: https://google.github.io/comprehensive-rust/bare-metal.html
-[concurrency]: https://google.github.io/comprehensive-rust/concurrency.html
+from basic syntax to generics and error handling.
 
 Read the course at **https://google.github.io/comprehensive-rust/**.
 

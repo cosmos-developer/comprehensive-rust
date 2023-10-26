@@ -36,14 +36,6 @@ path = "day-3/points-polygons.rs"
 name = "safe-ffi-wrapper"
 path = "day-3/safe-ffi-wrapper.rs"
 
-[[bin]]
-name = "dining-philosophers"
-path = "concurrency/dining-philosophers.rs"
-
-[[bin]]
-name = "link-checker"
-path = "concurrency/link-checker.rs"
-
 [dependencies]
 reqwest = { version = "0.11.12", features = ["blocking"] }
 scraper = "0.15.0"

@@ -15,14 +15,11 @@ fn main() {
 }
 ```
 
-* See [`Arc`][2] and [`Mutex`][3] if you are in a multi-threaded context.
-* You can *downgrade* a shared pointer into a [`Weak`][4] pointer to create cycles
+* You can *downgrade* a shared pointer into a [`Weak`][2] pointer to create cycles
   that will get dropped.
 
 [1]: https://doc.rust-lang.org/std/rc/struct.Rc.html
-[2]: ../concurrency/shared_state/arc.md
-[3]: https://doc.rust-lang.org/std/sync/struct.Mutex.html
-[4]: https://doc.rust-lang.org/std/rc/struct.Weak.html
+[2]: https://doc.rust-lang.org/std/rc/struct.Weak.html
 
 <details>
 

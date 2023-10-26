@@ -25,8 +25,7 @@ terms.
 
 ## CXX
 
-The [Interoperability with C++](android/interoperability/cpp.md) section uses an
-image from [CXX](https://cxx.rs/). Please see the `third_party/cxx/` directory
+Please see the `third_party/cxx/` directory
 for details, including the license terms.
 
 ## An Example in C

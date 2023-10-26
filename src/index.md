@@ -21,19 +21,6 @@ about Rust and hope to:
 
 We call the first three course days Rust Fundamentals.
 
-Building on this, you're invited to dive into one or more specialized topics:
-
-* [Android](android.md): a half-day course on using Rust for Android platform
-  development (AOSP). This includes interoperability with C, C++, and Java.
-* [Bare-metal](bare-metal.md): a whole-day class on using Rust for bare-metal
-  (embedded) development. Both microcontrollers and application processors are
-  covered.
-* [Concurrency](concurrency.md): a whole-day class on concurrency in Rust. We
-  cover both classical concurrency (preemptively scheduling using threads and
-  mutexes) and async/await concurrency (cooperative multitasking using
-  futures).
-
-
 ## Non-Goals
 
 Rust is a large language and we won't be able to cover all of it in a few days.
