@@ -1,4 +1,4 @@
-# Welcome to Day 2
+# Welcome to session 3 & 4
 
 Now that we have seen a fair amount of Rust, we will continue with:
 

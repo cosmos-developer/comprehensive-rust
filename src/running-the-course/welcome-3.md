@@ -1,4 +1,4 @@
-# Welcome to Day 3
+# Welcome to session 5 & 6
 
 Today, we will cover some more advanced topics of Rust:
 

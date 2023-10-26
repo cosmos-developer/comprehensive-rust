@@ -1,7 +1,6 @@
-# Welcome to Day 1
+# Welcome to session 1 & 2
 
-This is the first day of Rust Fundamentals. We will cover a lot of ground
-today:
+This is the first part of Rust Fundamentals. We will cover a lot of ground:
 
 * Basic Rust syntax: variables, scalar and compound types, enums, structs,
   references, functions, and methods.
@@ -26,17 +25,8 @@ Please remind the students that:
     that the slides are just a support and you are free to skip them as you
     like.
 
-The idea for the first day is to show _just enough_ of Rust to be able to speak
+The idea for the first two sessions is to show _just enough_ of Rust to be able to speak
 about the famous borrow checker. The way Rust handles memory is a major feature
 and we should show students this right away.
-
-If you're teaching this in a classroom, this is a good place to go over the
-schedule. We suggest splitting the day into two parts (following the slides):
-
-* Morning: 9:00 to 12:00,
-* Afternoon: 13:00 to 16:00.
-
-You can of course adjust this as necessary. Please make sure to include breaks,
-we recommend a break every hour!
 
 </details>

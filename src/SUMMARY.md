@@ -6,18 +6,21 @@
   - [Course Structure](running-the-course/course-structure.md)
   - [Keyboard Shortcuts](running-the-course/keyboard-shortcuts.md)
   - [Translations](running-the-course/translations.md)
+  - [Session 1 & 2](running-the-course/welcome-1.md)
+  - [Session 3 & 4](running-the-course/welcome-2.md)
+  - [Session 5 & 6](running-the-course/welcome-3.md)
 - [Using Cargo](cargo.md)
   - [Rust Ecosystem](cargo/rust-ecosystem.md)
   - [Code Samples](cargo/code-samples.md)
   - [Running Cargo Locally](cargo/running-locally.md)
+  
 
 
-# Day 1: Morning
+# Session 1
 
 ----
 
-- [Welcome](welcome-day-1.md)
-  - [What is Rust?](welcome-day-1/what-is-rust.md)
+- [What is Rust?](welcome-1/what-is-rust.md)
 - [Hello World!](hello-world.md)
   - [Small Example](hello-world/small-example.md)
 - [Why Rust?](why-rust.md)
@@ -40,7 +43,7 @@
   - [Implicit Conversions](exercises/day-1/implicit-conversions.md)
   - [Arrays and for Loops](exercises/day-1/for-loops.md)
 
-# Day 1: Afternoon
+# Session 2
 
 - [Control Flow](control-flow.md)
   - [Blocks](control-flow/blocks.md)
@@ -73,11 +76,9 @@
   - [Luhn Algorithm](exercises/day-1/luhn.md)
   - [Pattern Matching](exercises/day-1/pattern-matching.md)
 
-# Day 2: Morning
+# Session 3
 
 ----
-
-- [Welcome](welcome-day-2.md)
 
 - [Memory Management](memory-management.md)
   - [Stack vs Heap](memory-management/stack-vs-heap.md)
@@ -107,7 +108,7 @@
   - [Storing Books](exercises/day-2/book-library.md)
   - [Health Statistics](exercises/day-2/health-statistics.md)
 
-# Day 2: Afternoon
+# Session 4
 
 - [Standard Library](std.md)
   - [Option and Result](std/option-result.md)
@@ -128,11 +129,10 @@
   - [Strings and Iterators](exercises/day-2/strings-iterators.md)
 
 
-# Day 3: Morning
+# Session 5
 
 ----
 
-- [Welcome](welcome-day-3.md)
 - [Generics](generics.md)
   - [Generic Data Types](generics/data-types.md)
   - [Generic Methods](generics/methods.md)
@@ -156,7 +156,7 @@
   - [A Simple GUI Library](exercises/day-3/simple-gui.md)
   - [Points and Polygons](exercises/day-3/points-polygons.md)
 
-# Day 3: Afternoon
+# Session 6
 
 - [Error Handling](error-handling.md)
   - [Panics](error-handling/panics.md)
@@ -182,9 +182,10 @@
     - [Writing Unsafe Functions](unsafe/writing-unsafe-functions.md)
     - [Extern Functions](unsafe/extern-functions.md)
   - [Implementing Unsafe Traits](unsafe/unsafe-traits.md)
-- [Introduction to Solana contract](contract/solana.md)
-- [Introduction to Cosmos contract](contract/cosmos.md)
-- [Introduction to Polkadot contract](contract/polkadot.md)
+- [Contract introduction](contract/contract.md)
+  - [Introduction to Solana contract](contract/solana.md)
+  - [Introduction to Cosmos contract](contract/cosmos.md)
+  - [Introduction to Polkadot contract](contract/polkadot.md)
 - [Exercises](exercises/day-3/afternoon.md)
   - [Safe FFI Wrapper](exercises/day-3/safe-ffi-wrapper.md)
 

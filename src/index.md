@@ -4,11 +4,12 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/google/comprehensive-rust?style=flat-square)](https://github.com/google/comprehensive-rust/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/google/comprehensive-rust?style=flat-square)](https://github.com/google/comprehensive-rust/stargazers)
 
-This is a free Rust course developed by the Android team at Google. The course covers
-the full spectrum of Rust, from basic syntax to advanced topics like generics
-and error handling.
+This is a free Rust course developed by the Android team at Google.
+The course has been modified for blockchain needs by Cosmos VN DAO.
+The course covers the full spectrum of Rust, from basic syntax to advanced 
+topics like generics and error handling.
 
-> The latest version of the course can be found at
+> The original version of the course can be found at
 > <https://google.github.io/comprehensive-rust/>. If you are reading
 > somewhere else, please check there for updates.
 
@@ -18,8 +19,9 @@ about Rust and hope to:
 * Give you a comprehensive understanding of the Rust syntax and language.
 * Enable you to modify existing programs and write new programs in Rust.
 * Show you common Rust idioms.
+* Give you an overview on three blockchain ecosystems that use Rust as contract development language
 
-We call the first three course days Rust Fundamentals.
+We call these 6 sessions Rust Fundamentals.
 
 ## Non-Goals
 
