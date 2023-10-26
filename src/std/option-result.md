@@ -17,7 +17,7 @@ fn main() {
 
 * `Option` and `Result` are widely used not just in the standard library.
 * `Option<&T>` has zero space overhead compared to `&T`.
-* `Result` is the standard type to implement error handling as we will see on Day 3.
+* `Result` is the standard type to implement error handling as we will see from session 5.
 * `try_into` attempts to convert the vector into a fixed-sized array. This can fail:
   * If the vector has the right size, `Result::Ok` is returned with the array.
   * Otherwise, `Result::Err` is returned with the original vector.

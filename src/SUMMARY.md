@@ -13,7 +13,6 @@
   - [Rust Ecosystem](cargo/rust-ecosystem.md)
   - [Code Samples](cargo/code-samples.md)
   - [Running Cargo Locally](cargo/running-locally.md)
-  
 
 
 # Session 1
@@ -205,9 +204,9 @@
 ----
 
 - [Solutions](exercises/solutions.md)
-  - [Day 1 Morning](exercises/day-1/solutions-morning.md)
-  - [Day 1 Afternoon](exercises/day-1/solutions-afternoon.md)
-  - [Day 2 Morning](exercises/day-2/solutions-morning.md)
-  - [Day 2 Afternoon](exercises/day-2/solutions-afternoon.md)
-  - [Day 3 Morning](exercises/day-3/solutions-morning.md)
-  - [Day 3 Afternoon](exercises/day-3/solutions-afternoon.md)
+  - [Session 1](exercises/day-1/solutions-morning.md)
+  - [Session 2](exercises/day-1/solutions-afternoon.md)
+  - [Session 3](exercises/day-2/solutions-morning.md)
+  - [Session 4](exercises/day-2/solutions-afternoon.md)
+  - [Session 5](exercises/day-3/solutions-morning.md)
+  - [Session 6](exercises/day-3/solutions-afternoon.md)

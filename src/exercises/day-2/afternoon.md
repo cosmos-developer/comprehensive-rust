@@ -1,4 +1,4 @@
-# Day 2: Afternoon Exercises
+# Session 4 Exercises
 
 The exercises for this afternoon will focus on strings and iterators.
 

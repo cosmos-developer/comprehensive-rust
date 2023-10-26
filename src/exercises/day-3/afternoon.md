@@ -1,4 +1,4 @@
-# Day 3: Afternoon Exercises
+# Session 6 Exercises
 
 Let us build a safe wrapper for reading directory content!
 

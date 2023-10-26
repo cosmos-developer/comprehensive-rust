@@ -1,4 +1,4 @@
-# Day 3: Morning Exercises
+# Session 5 Exercises
 
 We will design a classical GUI library using traits and trait objects.
 

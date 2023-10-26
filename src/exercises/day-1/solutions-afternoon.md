@@ -1,4 +1,4 @@
-# Day 1 Afternoon Exercises
+# Session 2 Solutions
 
 ## Luhn Algorithm
 
